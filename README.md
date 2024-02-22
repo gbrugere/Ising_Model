@@ -92,7 +92,7 @@ mask or not, pay taxes or not...
 The $N$ agents are modelled by particles that can only take on
 only 2 spin values: those who pay their taxes take the value
 those who pay their taxes take the value $\sigma_i = +1$, those who don't pay their taxes take the value
-= -1$. The agents interact with each other and are linked by 3
+$\sigma_i = -1$. The agents interact with each other and are linked by 3
 different types of bond (paramagnetic, ferromagnetic or dangling), describing the
 the influence on a given agent of the choices made by its nearest neighbours.
 by its nearest neighbours. In the Giraldo-Barreto model,
@@ -101,13 +101,13 @@ making up the society of agents, is given by equation (1):
 $$\mathcal{H} = -\sum_{<i,j>} J_{ij}\sigma_i \sigma_j - \sum_i\sigma_i H + \sum_{i \in A | \sigma_i=-1}\sigma_i g_i(t-h)$$.
 
 The eigenvalues of this operator correspond to the energy
-E(\sigma_i)$ of each site i, which describes agent i's incentive to make the choice
+$E(\sigma_i)$ of each site i, which describes agent i's incentive to make the choice
 make the choice $\sigma_i = 1$. Expression (1) is similar to that for
 energy of a site obtained for the RFIM and seen in class (with the
 difference is that the expression refers to the overall energy of the system,
 and not that of a site). In both cases we find the effect of
 social pressure or imitation, represented by the term including the
-connectivity matrix $J_{ij}$: if $J_{ij} > 0$ (ferromagnetic bonds), the
+connectivity matrix $(J_{ij})$ : if $J_{ij} > 0$ (ferromagnetic bonds), the
 links), agent i will tend to imitate agent j; if
 $J_{ij} < 0$ (paramagnetic bonds), agent i will tend to make the choice
 the opposite choice to that of agent j; and if $J_{ij} = 0$ (dangling links), agent i's
