@@ -49,12 +49,10 @@ réduire efficacement l'évasion fiscale.
 
 ## Modélisation
 
-::: center
 Figure 1 : *graphique représentant le taux d'évasion fiscale en fonction
 de la politique*
 
 ![image](figure.png)
-:::
 
 Nous avons modélisé le modèle d'Ising de l'article dans le cas où il n'y
 a aucun contrôle fiscal, c'est-à-dire où l'on a $\alpha = 0$.
@@ -79,9 +77,6 @@ dans notre modèle. Cela peut s'expliquer par plusieurs raisons :
     dimensions car le temps de calcul devenait trop long et il était
     impossible de faire marcher le notebook correctement. Cette prise de
     liberté a pu être une source d'erreurs.
-
-Lien GitHub :
-<https://github.com/greygoose775/ProjPhysique/blob/main/PhysiqueSoc.ipynb>
 
 ## Lien avec le cours
 
