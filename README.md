@@ -1,4 +1,4 @@
-# Tax evasion study in a society realized as a dilutedIsing model with competing interactions (article from J. Giraldo-Barreto et J. Restrepo)
+# Tax evasion study in a society realized as a diluted Ising model with competing interactions (article from J. Giraldo-Barreto et J. Restrepo)
 
 ## Summary
 
